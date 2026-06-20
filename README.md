@@ -32,34 +32,3 @@ Then open:
 ```text
 http://localhost:3000
 ```
-
-## Deploy to Vercel Free Plan
-
-1. Create a GitHub repository, for example `nehla-portfolio`.
-2. Upload these files to the repository:
-   - `index.html`
-   - `styles.css`
-   - `script.js`
-   - `README.md`
-   - `resume.pdf` if you want the resume download button to work
-3. Go to [Vercel](https://vercel.com/).
-4. Sign in with GitHub.
-5. Click **Add New Project**.
-6. Import your portfolio repository.
-7. Keep the framework preset as **Other**.
-8. Leave build command empty.
-9. Leave output directory empty.
-10. Click **Deploy**.
-
-Vercel will give you a free live URL like:
-
-```text
-https://your-project-name.vercel.app
-```
-
-## Optional Improvements
-
-- Add a real profile photo.
-- Add LinkedIn and GitHub profile links.
-- Add screenshots for Shapeza and SafeNest.
-- Connect a custom domain from Vercel settings.
